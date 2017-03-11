@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Contatos</string>
+    <string name="app_login">Login:</string>
+    <string name="app_senha">Senha:</string>
+    <string name="app_cadastrar">Cadastrar</string>
+    <string name="app_entrar">Entrar</string>
+    <string name="app_esquecer_senha">Esqueceu a senha?</string>
+
+    <string name="app_nomecompleto">Nome completo:</string>
+    <string name="app_email">Email:</string>
+    <string name="app_confirmarsenha">Confirmar senha:</string>
+    <string name="app_possuoconta">Já possuo cadastro</string>
+    <string name="app_alterarimagem">Alterar Imagem</string>
+    <string name="app_removerimagem">Remover Imagem</string>
+
+</resources>
